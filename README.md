@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry</h1>
-<h3 align="center">Software/Web Developer and Cyber Security Expert</h3>
+<h3 align="center">Software Engineer and Cyber Security Specialist.</h3>
 
 - 🔭 I’m currently working on [Suggestions](https://github.com/jerskisnow/Suggestions)
 
