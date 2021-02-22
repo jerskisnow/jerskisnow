@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Suggestions](https://github.com/jerskisnow/Suggestions)
 
-- 🌱 I’m currently learning **Machine Learning / Data Science**
+- 🌱 I’m currently learning **Quantum Mechanics**
 
 - 📫 How to reach me **jerskisnow@gmail.com**
 
